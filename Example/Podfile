@@ -1,0 +1,19 @@
+use_frameworks!
+
+#source 'https://gitlab.lifesense.com/commonlib_ios/CocoaPodsSpecs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+source 'https://github.com/leshiguang/cocoapods.git'
+
+
+platform :ios, '8.0'
+
+target 'LSBluetoothSDK_iOS_Example' do
+  pod 'LSBluetoothSDK_iOS', :path => '../'
+  pod 'LSNetworkingModule', '2.1.8'
+  target 'LSBluetoothSDK_iOS_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
