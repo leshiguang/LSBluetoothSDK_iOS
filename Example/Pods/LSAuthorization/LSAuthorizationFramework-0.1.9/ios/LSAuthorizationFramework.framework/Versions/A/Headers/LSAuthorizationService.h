@@ -20,7 +20,7 @@ NS_ASSUME_NONNULL_BEGIN
 /// @param serviceVersion 服务版本，由服务中心指定
 /// @param mac 设备mac地址
 /// @param complete 回调
--(void) authorizeDevice:(NSString *)serviceId andVersion:(NSString *)serviceVersion andMac:(NSString *)mac withBlock:(void (^)(NSInteger)) complete;
+-(void) authorizeDevice:(NSString *)serviceId andVersion:(NSString *)serviceVersion andMac:(NSString *)mac andModel:(NSString *)model  withBlock:(void (^)(NSInteger)) complete;
 
 
 

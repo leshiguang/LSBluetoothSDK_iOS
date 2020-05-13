@@ -13,7 +13,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 
 @required
--(void) onRequest:(NSString *)serviceId andVersion:(NSString *)serviceVersion andMac:(NSString *) mac complete:(void (^)(NSInteger))complete;
+-(void) onRequest:(NSString *)serviceId andVersion:(NSString *)serviceVersion andMac:(NSString *) mac andModel:(NSString *)model complete:(void (^)(NSInteger))complete;
 
 
 @end
