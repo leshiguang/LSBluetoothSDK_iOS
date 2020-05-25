@@ -66,11 +66,11 @@
 		</data>
 		<key>Headers/LSDeviceInfo.h</key>
 		<data>
-		yDY10uLyYTKw7FdqC+Q3X6THUnY=
+		SWI1c7DEHDwSfbz9okRcJnEjUvM=
 		</data>
 		<key>Headers/LSDeviceMeasureData.h</key>
 		<data>
-		2KCfR3iKNQKRcSsY25QUna0mC3k=
+		RayTGfiw2mAND6RzNWHlWVVHdhs=
 		</data>
 		<key>Headers/LSDeviceOperationCmdInfo.h</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ljJrMfIgwpCDZQ+coU8VpPceB+g=
+		U6mR5V9JH1gNEy2hydXNPxM7TNM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -117,10 +117,6 @@
 	<dict>
 		<key>Headers/BPMeasurementStatus.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+fGOVOM2qKClWryTWdG+5MjPcVg=
-			</data>
 			<key>hash2</key>
 			<data>
 			5VvUygCs8OHey0NNRKJZvoPEIkhlkK/dU2TpdZY4WAc=
@@ -128,10 +124,6 @@
 		</dict>
 		<key>Headers/KCIReminder.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			knuocvwExIXGNEr991NeavKXZa4=
-			</data>
 			<key>hash2</key>
 			<data>
 			g8O5gyxZ+0FmsJK2UgvBem/ebBFokFlW5eAp8QpI0PE=
@@ -139,10 +131,6 @@
 		</dict>
 		<key>Headers/LSBluetoothManager+Push.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GMyOKbq5/cFb1U1mJxVUCEHvNJ0=
-			</data>
 			<key>hash2</key>
 			<data>
 			fuiNeeS9plMyW2/NBiB5GxpGJZo6Ck2NibRiEL/Lmi8=
@@ -150,10 +138,6 @@
 		</dict>
 		<key>Headers/LSBluetoothManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Am0xc3oQNMN4/50v5BcPxHyukqQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			EYe81Uima5tY811xKwq7jtBPEOJplHTviTZ+KYj5Dqg=
@@ -161,10 +145,6 @@
 		</dict>
 		<key>Headers/LSBluetoothManagerProfiles.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HawGc5MgzVMvVrnc0fl/8QaRESs=
-			</data>
 			<key>hash2</key>
 			<data>
 			78qinc07H9sNUiF5DI713G8L4FTqo50PxZ8nPEEe36k=
@@ -172,10 +152,6 @@
 		</dict>
 		<key>Headers/LSBluetoothStatusDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GesSCjScwTKkNZs7UP1fGwHHgyA=
-			</data>
 			<key>hash2</key>
 			<data>
 			w7AYbBMFOz/uZogZ26GbER4jOUaB4WiNpkjYli3sB54=
@@ -183,10 +159,6 @@
 		</dict>
 		<key>Headers/LSCmdPacket.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VMKeC4jFlG8uTw3cWSc1WNBTbCY=
-			</data>
 			<key>hash2</key>
 			<data>
 			H99H5zqSeDoz8s4qnzZzdrHJjQecU+hHRLRNU/e/fKI=
@@ -194,10 +166,6 @@
 		</dict>
 		<key>Headers/LSDBaseModel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JHut/jPEYfVJcaB/IHp+BwME9G4=
-			</data>
 			<key>hash2</key>
 			<data>
 			J91IbnqT27T8b/aVWfJa/cjr7m7SBAnrajC+amyRbzg=
@@ -205,10 +173,6 @@
 		</dict>
 		<key>Headers/LSDataFormatUtils.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3f0Crn/uFv4wPDP1MhH8wa8xen0=
-			</data>
 			<key>hash2</key>
 			<data>
 			2k4V7Bg7JRhzskJ+pAhcVdFSMPq0qEse6xG3jkjy6/o=
@@ -216,10 +180,6 @@
 		</dict>
 		<key>Headers/LSDebugMessageDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gc/xYvMA6KLuafHUUqX42YoIg6g=
-			</data>
 			<key>hash2</key>
 			<data>
 			ljObI5+5BXIc+1fWCFArRybxFBx3ROlrnuxKN/h+hu0=
@@ -227,10 +187,6 @@
 		</dict>
 		<key>Headers/LSDeviceBluetooth.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LMUgtcexXiAEI9QwzUau8Ickczc=
-			</data>
 			<key>hash2</key>
 			<data>
 			i0repqQEUe/Q6AiQZwkOsYDX49Y8N3a+Xx3Oup7hu6E=
@@ -238,10 +194,6 @@
 		</dict>
 		<key>Headers/LSDeviceData.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NgrQu2fMnMAnjKlka6D+1fn/EO4=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZPVAjPSRguTozt9O7PbdmQGxNc6xRYLVh8RU6z/xqsw=
@@ -249,10 +201,6 @@
 		</dict>
 		<key>Headers/LSDeviceDataDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sydZsOg72Vmnmli46i/sq10/p+M=
-			</data>
 			<key>hash2</key>
 			<data>
 			i2l45knO21Zkf4/Zy15jLYNcvA8iLFLg6y694ch+w+U=
@@ -260,10 +208,6 @@
 		</dict>
 		<key>Headers/LSDeviceFeature.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+iuSU8H4awle8ZHJkhXYJZ9Jgtc=
-			</data>
 			<key>hash2</key>
 			<data>
 			sZOjQtS8IbP/DSlQ8zmMF6eIoyc4kv/YsJPUVqFwfJw=
@@ -271,10 +215,6 @@
 		</dict>
 		<key>Headers/LSDeviceFilterInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kQa7IZkYRLlfkQ+IVS7j/25MANQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			sQg+zKbtRCtxHtC9q8Aoe624CIeVlWNs26nrwXMmiHg=
@@ -282,32 +222,20 @@
 		</dict>
 		<key>Headers/LSDeviceInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yDY10uLyYTKw7FdqC+Q3X6THUnY=
-			</data>
 			<key>hash2</key>
 			<data>
-			Kv/ZMT3dvvekySYUESRUi2X5BWkknZhb0YydubLR9x4=
+			lOI1D3Je/6xARfGemifjsBXRHYVNaMyKv8yiBw+P35c=
 			</data>
 		</dict>
 		<key>Headers/LSDeviceMeasureData.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2KCfR3iKNQKRcSsY25QUna0mC3k=
-			</data>
 			<key>hash2</key>
 			<data>
-			Rm009RDoc4JiUV0gbEJ8+cQIiEfph/jSJsr8RU25Zvs=
+			o0zqloDXltkXjVzm/VkJ/kKHtGqPeQomdmphHfBwgqA=
 			</data>
 		</dict>
 		<key>Headers/LSDeviceOperationCmdInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8NLRqF4sH9Ba0jDz2qsIl+hM5dU=
-			</data>
 			<key>hash2</key>
 			<data>
 			AS9OfyJkzopCRihjjLUORMwQfPcoylrXohiElQ+RKA0=
@@ -315,10 +243,6 @@
 		</dict>
 		<key>Headers/LSDevicePairingDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vTFf+yLnFdm6F2XlfBqpo2KNKDY=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZnmYZnjxWq8Oe3dId9oiInJlYiBdMu8HBjZoMM/JAlc=
@@ -326,10 +250,6 @@
 		</dict>
 		<key>Headers/LSDeviceSetting.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zt5RNzF07HID3YvZ1AdZVOA3/GA=
-			</data>
 			<key>hash2</key>
 			<data>
 			g+3dGWdMDffO5mhL/qC74Uzok0dqMQ9GSq25W3fChc0=
@@ -337,10 +257,6 @@
 		</dict>
 		<key>Headers/LSDeviceUpgradingDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ukZBFlh+GkrKfor0Mjb5peJFj9Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			l+q17yb4iT6CNnRcd+TW/urtHui6mn1oJ9q9G9YYp9A=
@@ -348,10 +264,6 @@
 		</dict>
 		<key>Headers/LSPedometerAlarmClock.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bTVbSWrKUyfkEN4O/INMY5DbKVU=
-			</data>
 			<key>hash2</key>
 			<data>
 			ejg+EkxiM6uiaUBfLppMTtlV+yiYdqVcRwYDotHOLLA=
@@ -359,10 +271,6 @@
 		</dict>
 		<key>Headers/LSPedometerUserInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cHVr39PflnQzN9cYCrH/qQ4pFlw=
-			</data>
 			<key>hash2</key>
 			<data>
 			kDQvc52WIG3XQQjGhQuuvzdtuAn4dQk1LazYxUdOFZM=
@@ -370,10 +278,6 @@
 		</dict>
 		<key>Headers/LSProductUserInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8CqVzj18ofJpzupwlrH+aJk/8T8=
-			</data>
 			<key>hash2</key>
 			<data>
 			IxGts8jrnf4wJdxTngwtKQzjZ4LExjcYRILVfTknOd4=
@@ -381,10 +285,6 @@
 		</dict>
 		<key>Headers/NSDictionary+Ext.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y6EdnZfEe4IoTVtMN5UPxTgJrH4=
-			</data>
 			<key>hash2</key>
 			<data>
 			go2NU+eBcCWdL168jiqFqdxHBASTlGP2ywgiSjKQN/o=
@@ -392,10 +292,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			f45E/QwahLqnGE20Cq8RjDr9wjo=
-			</data>
 			<key>hash2</key>
 			<data>
 			VGtKea+ElwnSvp++Qdj1QQQn7heP3s+Sg/gk/Im3z+s=
