@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LSBluetoothSDK_iOS'
-  s.version          = '1.4.6'
+  s.version          = '1.4.7'
   s.summary          = 'A short description of LSBluetoothSDK_iOS.'
 
 # This description is used to generate tags and improve search results.
